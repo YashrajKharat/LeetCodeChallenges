@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -47,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
