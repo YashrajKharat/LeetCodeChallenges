@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0628-maximum-product-of-three-numbers) |
 ## Array
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0219-contains-duplicate-ii) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
