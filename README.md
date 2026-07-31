@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0485-max-consecutive-ones) |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
