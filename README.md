@@ -129,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0125-valid-palindrome) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/YashrajKharat/LeetCodeChallenges/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
